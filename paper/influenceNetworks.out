@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section*.1}{Motivation}{}% 1
+\BOOKMARK [1][-]{section*.2}{Methods}{}% 2
+\BOOKMARK [2][-]{section*.3}{Bilinear network autoregression model}{section*.2}% 3
+\BOOKMARK [2][-]{section*.5}{Social influence regression}{section*.2}% 4
+\BOOKMARK [2][-]{section*.6}{Estimation}{section*.2}% 5
+\BOOKMARK [2][-]{section*.7}{Inference}{section*.2}% 6
+\BOOKMARK [1][-]{section*.9}{Empirical Application}{}% 7
+\BOOKMARK [2][-]{section*.10}{ICEWS Material Conflict}{section*.9}% 8
+\BOOKMARK [2][-]{section*.12}{Parameters with direct effect}{section*.9}% 9
+\BOOKMARK [2][-]{section*.13}{Parameters defining influence patterns}{section*.9}% 10
+\BOOKMARK [2][-]{section*.15}{Parameter Estimates}{section*.9}% 11
+\BOOKMARK [2][-]{section*.17}{Visualizing Dependence Patterns}{section*.9}% 12
+\BOOKMARK [2][-]{section*.19}{Performance Comparison}{section*.9}% 13
+\BOOKMARK [1][-]{section*.22}{Conclusion}{}% 14
+\BOOKMARK [1][-]{section*.23}{Appendix}{}% 15
+\BOOKMARK [2][-]{section*.25}{Convergence}{section*.23}% 16
+\BOOKMARK [2][-]{section*.26}{Influence Dynamics}{section*.23}% 17
+\BOOKMARK [2][-]{section*.28}{Predictions from SIR}{section*.23}% 18
+\BOOKMARK [2][-]{section*.29}{Interpreting Exogenous Covariates}{section*.23}% 19
+\BOOKMARK [2][-]{section*.33}{Scoring Rules for Count Data}{section*.23}% 20
+\BOOKMARK [1][-]{section*.34}{Funding}{}% 21
+\BOOKMARK [1][-]{section*.35}{Acknowledgments}{}% 22
+\BOOKMARK [1][-]{section*.36}{References}{}% 23

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: influenceNetworks.aux
+The style file: apsr.bst
+Database file #1: master.bib
+Warning--entry type for "oeda:2016" isn't style-file defined
+--line 11943 of file master.bib
+You've used 45 entries,
+            2874 wiz_defined-function locations,
+            901 strings with 11947 characters,
+and the built_in function-call counts, 204426 in all, are:
+= -- 33568
+> -- 2527
+< -- 0
++ -- 15918
+- -- 886
+* -- 17579
+:= -- 40795
+add.period$ -- 182
+call.type$ -- 45
+change.case$ -- 585
+chr.to.int$ -- 44
+cite$ -- 45
+duplicate$ -- 692
+empty$ -- 1501
+format.name$ -- 927
+if$ -- 36776
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 43
+newline$ -- 191
+num.names$ -- 532
+pop$ -- 161
+preamble$ -- 1
+purify$ -- 675
+quote$ -- 0
+skip$ -- 620
+stack$ -- 0
+substring$ -- 47508
+swap$ -- 117
+text.length$ -- 630
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 172
+warning$ -- 0
+while$ -- 1068
+width$ -- 0
+write$ -- 632
+(There was 1 warning)

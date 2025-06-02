@@ -1,0 +1,26 @@
++ bash repl_soc_infl_reg.sh
+Clear pdfs from previous runs...
+rm: cannot remove 'results/*.pdf': No such file or directory
+Clear rda files from previous runs...
+rm: cannot remove 'results/*.rda': No such file or directory
+Clear log files from previous runs...
+🚀 Pipeline started at Thu Apr 17 00:09:58 UTC 2025
+📄 Logging to pipeline_log.txt
+🔹 Starting 00_install_pkgs.R at Thu Apr 17 00:09:58 UTC 2025
+✅ Finished 00_install_pkgs.R at Thu Apr 17 00:14:51 UTC 2025
+🔹 Starting 01_plot_descrip.R at Thu Apr 17 00:14:51 UTC 2025
+✅ Finished 01_plot_descrip.R at Thu Apr 17 00:14:56 UTC 2025
+🔹 Starting 02_run_model.R at Thu Apr 17 00:14:56 UTC 2025
+✅ Finished 02_run_model.R at Thu Apr 17 00:39:07 UTC 2025
+🔹 Starting 03_plot_coefs.R at Thu Apr 17 00:39:07 UTC 2025
+✅ Finished 03_plot_coefs.R at Thu Apr 17 00:39:12 UTC 2025
+🔹 Starting 04_plot_influence.R at Thu Apr 17 00:39:12 UTC 2025
+✅ Finished 04_plot_influence.R at Thu Apr 17 00:39:23 UTC 2025
+🔹 Starting 05_run_perf.R at Thu Apr 17 00:39:23 UTC 2025
+✅ Finished 05_run_perf.R at Thu Apr 17 01:14:23 UTC 2025
+🔹 Starting 06_plot_perf.R at Thu Apr 17 01:14:23 UTC 2025
+✅ Finished 06_plot_perf.R at Thu Apr 17 01:14:28 UTC 2025
+🔹 Starting 07_plot_convergence.R at Thu Apr 17 01:14:28 UTC 2025
+✅ Finished 07_plot_convergence.R at Thu Apr 17 01:14:35 UTC 2025
+🏁 Pipeline completed at Thu Apr 17 01:14:35 UTC 2025
+📄 Full log saved to pipeline_log.txt

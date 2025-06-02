@@ -1,0 +1,28 @@
+\begin{tikzpicture}
+
+	% Green
+	\begin{scope}[xshift=1cm, yshift=1cm]
+	\node{
+		\begin{tikzpicture}[scale=.5]
+			 \draw[thin, black,fill=green3] (0,0) grid (4,4) rectangle (0,0) ;
+		\end{tikzpicture}
+	};
+	\end{scope}
+
+	\begin{scope}[xshift=.5cm, yshift=.5cm]
+	\node[](green){
+		\begin{tikzpicture}[scale=.5]
+			 \draw[thin, black,fill=green2] (0,0) grid (4,4) rectangle (0,0) ;
+		\end{tikzpicture}
+	} ;
+	\end{scope}
+
+	\begin{scope}
+	\node{
+		\begin{tikzpicture}[scale=.5]
+			 \draw[thin, black,fill=green1] (0,0) grid (4,4) rectangle (0,0) ;
+		\end{tikzpicture}
+	};
+	\end{scope}
+	
+\end{tikzpicture}
