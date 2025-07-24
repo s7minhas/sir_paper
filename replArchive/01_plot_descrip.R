@@ -12,14 +12,16 @@ load(paste0(dpth, 'dirDyad_array.rda'))
 # Plot networks
 
 # gen legend
-fname=paste0(gpth, 'map.pdf')
+# fname=paste0(gpth, 'map.pdf')
+fname=paste0(gpth, 'map.eps')
 genCntryMap = TRUE ; source(paste0(rfuncs, "genColors.r"))
 
 # Choose pds to plot over
 pds = round(quantile(1:dim(Y)[3], probs=seq(0,1,.1)))
 
 # Create filenames
-fNames = paste0(gpth, 'zzz_matlConfNet_', gsub('-','_',dimnames(Y)[[3]][pds]), '.pdf')
+# fNames = paste0(gpth, 'zzz_matlConfNet_', gsub('-','_',dimnames(Y)[[3]][pds]), '.pdf')
+fNames = paste0(gpth, 'zzz_matlConfNet_', gsub('-','_',dimnames(Y)[[3]][pds]), '.eps')
 
 # Set static node positions
 set.seed(6886)
@@ -44,8 +46,10 @@ rownames(xyPos) = activeNodes
 
 # write file names
 fNames[c(1, length(pds))] = c(
-  paste0(gpth, 'figure4_jan05.pdf'),
-  paste0(gpth, 'figure4_dec12.pdf')
+  # paste0(gpth, 'figure4_jan05.pdf'),
+  # paste0(gpth, 'figure4_dec12.pdf')
+  paste0(gpth, 'figure4_jan05.eps'),
+  paste0(gpth, 'figure4_dec12.eps')
 )
 
 # Loop over pds
@@ -100,7 +104,8 @@ lapply(c(1,length(pds)), function(ii){
 		E(g)$weight<quantile(E(g)$weight,.98)) ] = '#bdbdbd' # '#d9d9d9'
 	edgeCol[ which(E(g)$weight>=quantile(E(g)$weight,.98) ) ] = '#969696' # '#bdbdbd'
 
-	pdf(file=fNames[ii], width=8,height=5)
+	# pdf(file=fNames[ii], width=8,height=5)
+	postscript(file=fNames[ii], width=8, height=5, horizontal=FALSE, onefile=FALSE, paper="special")
 	plot.igraph(
 		x=g,
 		layout=xyPosT,
@@ -115,6 +120,6 @@ lapply(c(1,length(pds)), function(ii){
 		asp=FALSE
 		)
 	dev.off()
-	system(paste('pdfcrop', fNames[ii], fNames[ii], sep=' '))
+	# system(paste('pdfcrop', fNames[ii], fNames[ii], sep=' '))
 } )
 ####

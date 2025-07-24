@@ -36,8 +36,12 @@ b=buildCoef(
 		axis.text.y=element_text(family="Source Sans Pro Light") )
 
 loadPkg('gridExtra')
+# ggsave(
+# 	grid.arrange(z,arrangeGrob(a,b,ncol=1), ncol=2 ),
+# 	width=6, height=5,
+# 	file=paste0(gpth, 'figure5.pdf'), device=cairo_pdf)
 ggsave(
 	grid.arrange(z,arrangeGrob(a,b,ncol=1), ncol=2 ),
 	width=6, height=5,
-	file=paste0(gpth, 'figure5.pdf'), device=cairo_pdf)	
+	file=paste0(gpth, 'figure5.eps'), device="eps")	
 ####

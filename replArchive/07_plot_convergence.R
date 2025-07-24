@@ -74,9 +74,14 @@ bCheck=ggplot(coefChain[coefChain$type=='beta',], aes(x=Var1, y=value)) +
 		strip.background = element_rect(fill = typeCols[3], color=typeCols[3])
 		)
 loadPkg('gridExtra')
+# ggsave(
+# 	grid.arrange(zCheck,arrangeGrob(aCheck,bCheck,ncol=1), ncol=2 ),
+# 	file=paste0(gpth, 'figurea1.pdf'),	
+# 	width=8, height=7, device=cairo_pdf
+# 	)
 ggsave(
 	grid.arrange(zCheck,arrangeGrob(aCheck,bCheck,ncol=1), ncol=2 ),
-	file=paste0(gpth, 'figurea1.pdf'),	
-	width=8, height=7, device=cairo_pdf
+	file=paste0(gpth, 'figurea1.eps'),	
+	width=8, height=7, device="eps"
 	)
 ####

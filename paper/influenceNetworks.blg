@@ -4,46 +4,46 @@ The top-level auxiliary file: influenceNetworks.aux
 The style file: apsr.bst
 Database file #1: master.bib
 Warning--entry type for "oeda:2016" isn't style-file defined
---line 11943 of file master.bib
-You've used 45 entries,
+--line 11952 of file master.bib
+You've used 46 entries,
             2874 wiz_defined-function locations,
-            901 strings with 11947 characters,
-and the built_in function-call counts, 204426 in all, are:
-= -- 33568
-> -- 2527
+            907 strings with 12132 characters,
+and the built_in function-call counts, 208104 in all, are:
+= -- 34168
+> -- 2578
 < -- 0
-+ -- 15918
-- -- 886
-* -- 17579
-:= -- 40795
-add.period$ -- 182
-call.type$ -- 45
-change.case$ -- 585
-chr.to.int$ -- 44
-cite$ -- 45
-duplicate$ -- 692
-empty$ -- 1501
-format.name$ -- 927
-if$ -- 36776
++ -- 16200
+- -- 904
+* -- 17885
+:= -- 41548
+add.period$ -- 186
+call.type$ -- 46
+change.case$ -- 598
+chr.to.int$ -- 45
+cite$ -- 46
+duplicate$ -- 703
+empty$ -- 1527
+format.name$ -- 945
+if$ -- 37435
 int.to.chr$ -- 6
 int.to.str$ -- 0
 missing$ -- 43
-newline$ -- 191
-num.names$ -- 532
-pop$ -- 161
+newline$ -- 196
+num.names$ -- 544
+pop$ -- 170
 preamble$ -- 1
-purify$ -- 675
+purify$ -- 690
 quote$ -- 0
-skip$ -- 620
+skip$ -- 630
 stack$ -- 0
-substring$ -- 47508
-swap$ -- 117
-text.length$ -- 630
+substring$ -- 48336
+swap$ -- 118
+text.length$ -- 644
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 172
+type$ -- 176
 warning$ -- 0
-while$ -- 1068
+while$ -- 1091
 width$ -- 0
-write$ -- 632
+write$ -- 645
 (There was 1 warning)

@@ -1,4 +1,4 @@
-# Social Influence Regression
+# Decomposing Network Dynamics: Social Influence Regression
 
 Authors
 ---

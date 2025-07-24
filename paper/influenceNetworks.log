@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.2)  4 JUN 2025 10:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.2)  24 JUL 2025 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1000,10 +1000,6 @@ Package hyperref Info: Link coloring ON on input line 215.
 
 LaTeX Font Info:    Font shape `T1/opensans-TOsF/m/it' will be
 (Font)              scaled to size 9.49997pt on input line 216.
-LaTeX Font Info:    Trying to load font information for T1+aett on input line 216.
- (/Users/sminhas/Library/TinyTeX/texmf-dist/tex/latex/ae/t1aett.fd
-File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-)
 LaTeX Font Info:    Font shape `T1/opensans-TOsF/b/n' will be
 (Font)              scaled to size 11.39996pt on input line 216.
 LaTeX Font Info:    Font shape `T1/opensans-TOsF/m/n' will be
@@ -1112,6 +1108,14 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
 [8]
+LaTeX Font Info:    Trying to load font information for T1+aess on input line 149.
+ (/Users/sminhas/Library/TinyTeX/texmf-dist/tex/latex/ae/t1aess.fd
+File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
+)
+LaTeX Font Info:    Trying to load font information for T1+aett on input line 149.
+ (/Users/sminhas/Library/TinyTeX/texmf-dist/tex/latex/ae/t1aett.fd
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
 Overfull \hbox (10.31636pt too wide) in paragraph at lines 155--156
 \T1/opensans-TOsF/m/sc/10.95 es-ti-mates by com-put-ing the stan-dard er-rors. These stan-dard er-rors are de-rived from the variance-
  []
@@ -1144,7 +1148,7 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
 [11]
-<Graphics/socialInfluenceViz3.png, id=225, 1712.64844pt x 779.16093pt>
+<Graphics/socialInfluenceViz3.png, id=248, 1712.64844pt x 779.16093pt>
 File: Graphics/socialInfluenceViz3.png Graphic file (type png)
 <use Graphics/socialInfluenceViz3.png>
 Package pdftex.def Info: Graphics/socialInfluenceViz3.png  used on input line 250.
@@ -1176,7 +1180,7 @@ Overfull \hbox (11.66594pt too wide) in paragraph at lines 22--22
  []|\T1/opensans-TOsF/m/sc/12 January 
  []
 
-<Graphics/figure4_jan05.pdf, id=264, 435.6275pt x 205.76875pt>
+<Graphics/figure4_jan05.pdf, id=290, 435.6275pt x 205.76875pt>
 File: Graphics/figure4_jan05.pdf Graphic file (type pdf)
 <use Graphics/figure4_jan05.pdf>
 Package pdftex.def Info: Graphics/figure4_jan05.pdf  used on input line 22.
@@ -1191,7 +1195,7 @@ Overfull \hbox (26.71503pt too wide) in paragraph at lines 23--23
  []|\T1/opensans-TOsF/m/sc/12 December 
  []
 
-<Graphics/figure4_dec12.pdf, id=265, 435.6275pt x 206.7725pt>
+<Graphics/figure4_dec12.pdf, id=291, 435.6275pt x 206.7725pt>
 File: Graphics/figure4_dec12.pdf Graphic file (type pdf)
 <use Graphics/figure4_dec12.pdf>
 Package pdftex.def Info: Graphics/figure4_dec12.pdf  used on input line 23.
@@ -1201,7 +1205,7 @@ Overfull \hbox (293.1096pt too wide) in paragraph at lines 23--24
  []|[]| 
  []
 
-<Graphics/map.pdf, id=266, 394.47375pt x 156.585pt>
+<Graphics/map.pdf, id=292, 394.47375pt x 156.585pt>
 File: Graphics/map.pdf Graphic file (type pdf)
 <use Graphics/map.pdf>
 Package pdftex.def Info: Graphics/map.pdf  used on input line 24.
@@ -1255,11 +1259,11 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
 [19]
-Overfull \hbox (5.05061pt too wide) in paragraph at lines 94--95
+Overfull \hbox (6.11993pt too wide) in paragraph at lines 94--95
  []\T1/opensans-TOsF/b/sc/10.95 Parameter Es-ti-mates.[][] \T1/opensans-TOsF/m/sc/10.95 Fig-ure [][]5[][] de-picts the pa-ram-e-ter es-ti-mates us-ing a set of co-ef-fi-cient plots.[][][][][]
  []
 
-<Graphics/figure5.pdf, id=415, 433.62pt x 361.35pt>
+<Graphics/figure5.pdf, id=442, 433.62pt x 361.35pt>
 File: Graphics/figure5.pdf Graphic file (type pdf)
 <use Graphics/figure5.pdf>
 Package pdftex.def Info: Graphics/figure5.pdf  used on input line 100.
@@ -1288,12 +1292,12 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 [22]
 LaTeX Font Info:    Font shape `T1/opensans-TOsF/b/sc' will be
 (Font)              scaled to size 11.39996pt on input line 124.
-<Graphics/aInfl_2007_06_01.pdf, id=464, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2007_06_01.pdf, id=492, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2007_06_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2007_06_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2007_06_01.pdf  used on input line 126.
 (pdftex.def)             Requested size: 364.24149pt x 194.5805pt.
-<Graphics/bInfl_2007_06_01.pdf, id=465, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2007_06_01.pdf, id=493, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2007_06_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2007_06_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2007_06_01.pdf  used on input line 128.
@@ -1321,7 +1325,7 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
 [24 <./Graphics/aInfl_2007_06_01.pdf> <./Graphics/bInfl_2007_06_01.pdf>]
-<Graphics/figure7.pdf, id=504, 361.35pt x 289.08pt>
+<Graphics/figure7.pdf, id=531, 361.35pt x 289.08pt>
 File: Graphics/figure7.pdf Graphic file (type pdf)
 <use Graphics/figure7.pdf>
 Package pdftex.def Info: Graphics/figure7.pdf  used on input line 147.
@@ -1334,7 +1338,7 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
 [25]
-<Graphics/figure8.pdf, id=516, 361.35pt x 289.08pt>
+<Graphics/figure8.pdf, id=543, 361.35pt x 289.08pt>
 File: Graphics/figure8.pdf Graphic file (type pdf)
 <use Graphics/figure8.pdf>
 Package pdftex.def Info: Graphics/figure8.pdf  used on input line 159.
@@ -1353,7 +1357,7 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
-[27 <./Graphics/figure8.pdf>]) (./6_append.tex
+[27 <./Graphics/figure8.pdf>])
 
 
 Package fancyhdr Warning: \footskip is too small (12.0pt): 
@@ -1361,7 +1365,60 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
 [28]
-<Graphics/figurea1.pdf, id=562, 578.16pt x 505.89pt>
+
+
+Package fancyhdr Warning: \footskip is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.0pt}.
+
+[29
+
+] (./influenceNetworks.bbl
+Underfull \hbox (badness 2005) in paragraph at lines 16--18
+[]\T1/opensans-TOsF/m/sc/10.95 Boschee, Eliz-a-beth, Jen-nifer Laut-en-schlager, Sean O'Brien, Steve Shell-man, James Starz
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \footskip is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.0pt}.
+
+[30
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \footskip is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.0pt}.
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \footskip is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.0pt}.
+
+[32])
+
+
+Package fancyhdr Warning: \footskip is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.0pt}.
+
+[33] (./6_append.tex
+<Graphics/figurea1.pdf, id=619, 578.16pt x 505.89pt>
 File: Graphics/figurea1.pdf Graphic file (type pdf)
 <use Graphics/figurea1.pdf>
 Package pdftex.def Info: Graphics/figurea1.pdf  used on input line 16.
@@ -1373,19 +1430,20 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
-[29
+[34
+
 
  <./Graphics/figurea1.pdf>]
 LaTeX Font Info:    Font shape `T1/opensans-TOsF/m/sc' will be
 (Font)              scaled to size 8.54997pt on input line 33.
 LaTeX Font Info:    Font shape `T1/opensans-TOsF/m/sc' will be
 (Font)              scaled to size 7.59998pt on input line 34.
-<Graphics/aInfl_2005_02_01.pdf, id=582, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2005_02_01.pdf, id=639, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2005_02_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2005_02_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2005_02_01.pdf  used on input line 35.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/aInfl_2006_09_01.pdf, id=583, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2006_09_01.pdf, id=640, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2006_09_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2006_09_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2006_09_01.pdf  used on input line 36.
@@ -1394,42 +1452,42 @@ File: Graphics/aInfl_2007_06_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2007_06_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2007_06_01.pdf  used on input line 37.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/aInfl_2008_04_01.pdf, id=584, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2008_04_01.pdf, id=641, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2008_04_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2008_04_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2008_04_01.pdf  used on input line 39.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/aInfl_2009_01_01.pdf, id=585, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2009_01_01.pdf, id=642, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2009_01_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2009_01_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2009_01_01.pdf  used on input line 40.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/aInfl_2010_08_01.pdf, id=586, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2010_08_01.pdf, id=643, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2010_08_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2010_08_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2010_08_01.pdf  used on input line 41.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/aInfl_2009_10_01.pdf, id=587, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2009_10_01.pdf, id=644, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2009_10_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2009_10_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2009_10_01.pdf  used on input line 43.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/aInfl_2011_05_01.pdf, id=588, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2011_05_01.pdf, id=645, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2011_05_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2011_05_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2011_05_01.pdf  used on input line 44.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/aInfl_2012_12_01.pdf, id=589, 777.90625pt x 415.5525pt>
+<Graphics/aInfl_2012_12_01.pdf, id=646, 777.90625pt x 415.5525pt>
 File: Graphics/aInfl_2012_12_01.pdf Graphic file (type pdf)
 <use Graphics/aInfl_2012_12_01.pdf>
 Package pdftex.def Info: Graphics/aInfl_2012_12_01.pdf  used on input line 45.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2005_02_01.pdf, id=590, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2005_02_01.pdf, id=647, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2005_02_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2005_02_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2005_02_01.pdf  used on input line 48.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2006_09_01.pdf, id=591, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2006_09_01.pdf, id=648, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2006_09_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2006_09_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2006_09_01.pdf  used on input line 49.
@@ -1438,32 +1496,32 @@ File: Graphics/bInfl_2007_06_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2007_06_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2007_06_01.pdf  used on input line 50.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2008_04_01.pdf, id=592, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2008_04_01.pdf, id=649, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2008_04_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2008_04_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2008_04_01.pdf  used on input line 52.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2009_01_01.pdf, id=593, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2009_01_01.pdf, id=650, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2009_01_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2009_01_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2009_01_01.pdf  used on input line 53.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2010_08_01.pdf, id=594, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2010_08_01.pdf, id=651, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2010_08_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2010_08_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2010_08_01.pdf  used on input line 54.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2009_10_01.pdf, id=595, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2009_10_01.pdf, id=652, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2009_10_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2009_10_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2009_10_01.pdf  used on input line 56.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2011_05_01.pdf, id=596, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2011_05_01.pdf, id=653, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2011_05_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2011_05_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2011_05_01.pdf  used on input line 57.
 (pdftex.def)             Requested size: 114.99538pt x 61.43324pt.
-<Graphics/bInfl_2012_12_01.pdf, id=597, 777.90625pt x 415.5525pt>
+<Graphics/bInfl_2012_12_01.pdf, id=654, 777.90625pt x 415.5525pt>
 File: Graphics/bInfl_2012_12_01.pdf Graphic file (type pdf)
 <use Graphics/bInfl_2012_12_01.pdf>
 Package pdftex.def Info: Graphics/bInfl_2012_12_01.pdf  used on input line 58.
@@ -1475,61 +1533,9 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
-[30
+[35
 
  <./Graphics/aInfl_2005_02_01.pdf> <./Graphics/aInfl_2006_09_01.pdf> <./Graphics/aInfl_2008_04_01.pdf> <./Graphics/aInfl_2009_01_01.pdf> <./Graphics/aInfl_2010_08_01.pdf> <./Graphics/aInfl_2009_10_01.pdf> <./Graphics/aInfl_2011_05_01.pdf> <./Graphics/aInfl_2012_12_01.pdf> <./Graphics/bInfl_2005_02_01.pdf> <./Graphics/bInfl_2006_09_01.pdf> <./Graphics/bInfl_2008_04_01.pdf> <./Graphics/bInfl_2009_01_01.pdf> <./Graphics/bInfl_2010_08_01.pdf> <./Graphics/bInfl_2009_10_01.pdf> <./Graphics/bInfl_2011_05_01.pdf> <./Graphics/bInfl_2012_12_01.pdf>]
-
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.0pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.0pt}.
-
-[31
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.0pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.0pt}.
-
-[32
-
-]
-
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.0pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.0pt}.
-
-[33])
-
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.0pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.0pt}.
-
-[34
-
-]
-
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.0pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.0pt}.
-
-[35] (./influenceNetworks.bbl
-Underfull \hbox (badness 2005) in paragraph at lines 16--18
-[]\T1/opensans-TOsF/m/sc/10.95 Boschee, Eliz-a-beth, Jen-nifer Laut-en-schlager, Sean O'Brien, Steve Shell-man, James Starz
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 
 Package fancyhdr Warning: \footskip is too small (12.0pt): 
@@ -1548,10 +1554,9 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
-[37]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[37
 
-
+]
 
 
 Package fancyhdr Warning: \footskip is too small (12.0pt): 
@@ -1565,9 +1570,20 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
-[39]
+[39
+
+]
+
+
+Package fancyhdr Warning: \footskip is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.0pt}.
+
+[40
+
+]
 LaTeX Font Info:    Font shape `T1/opensans-TOsF/m/sc' will be
-(Font)              scaled to size 9.49997pt on input line 248.
+(Font)              scaled to size 9.49997pt on input line 284.
 
 
 
@@ -1575,7 +1591,9 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.0pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.0pt}.
 
-[40] (./influenceNetworks.aux)
+[41
+
+] (./influenceNetworks.aux)
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
@@ -1585,16 +1603,19 @@ L3 programming layer <2025-05-26>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `influenceNetworks.out' has not changed.
-(rerunfilecheck)             Checksum: B92398F066B793B8FD70077D27853D3A;1456.
+(rerunfilecheck)             Checksum: 71DA8BE17CAF5E5626F0AE3E6E310693;1832.
  ) 
 Here is how much of TeX's memory you used:
- 32105 strings out of 467892
- 643270 string characters out of 5430503
- 1009859 words of memory out of 5000000
- 59760 multiletter control sequences out of 15000+600000
- 657674 words of font info for 140 fonts, out of 8000000 for 9000
+ 32149 strings out of 467892
+ 644048 string characters out of 5430503
+ 1009348 words of memory out of 5000000
+ 59791 multiletter control sequences out of 15000+600000
+ 659086 words of font info for 141 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  86i,18n,117p,1880b,1219s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exist, replaced by a fixed one
 
@@ -1647,10 +1668,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 </Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Bold.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></Users/sminhas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on influenceNetworks.pdf (41 pages, 2017551 bytes).
+Output written on influenceNetworks.pdf (42 pages, 2021956 bytes).
 PDF statistics:
- 907 PDF objects out of 1000 (max. 8388607)
- 729 compressed objects within 8 object streams
- 153 named destinations out of 1000 (max. 500000)
- 327 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 946 PDF objects out of 1000 (max. 8388607)
+ 767 compressed objects within 8 object streams
+ 162 named destinations out of 1000 (max. 500000)
+ 375 words of extra memory for PDF output out of 10000 (max. 10000000)
 

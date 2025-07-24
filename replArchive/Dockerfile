@@ -20,7 +20,7 @@ RUN echo "deb http://archive.debian.org/debian stretch main contrib non-free"   
     echo 'Acquire::Check-Valid-Until \"false\";' > /etc/apt/apt.conf.d/99ignore-valid-until
 
 # update and install needed deps
-RUN apt-get update && apt-get install -y --no-install-recommends \
+RUN apt-get update && apt-get install -y --allow-unauthenticated --no-install-recommends \
     libcairo2-dev \
     libxt-dev \
     libx11-dev \
@@ -36,4 +36,3 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     ghostscript \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
-

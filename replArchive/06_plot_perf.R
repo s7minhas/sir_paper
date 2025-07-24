@@ -62,7 +62,8 @@ perf = ggplot(oDF, aes(x=L1, y=value, color=L2, shape=L2)) +
     strip.text.x = element_text(size = 9, color='white',family="Source Sans Pro Semibold"),
     strip.background = element_rect(fill = "#525252", color='#525252')		
   )
-ggsave(perf, file=paste0(gpth, 'figure8.pdf'), width=5, height=4, device=cairo_pdf)
+# ggsave(perf, file=paste0(gpth, 'figure8.pdf'), width=5, height=4, device=cairo_pdf)
+ggsave(perf, file=paste0(gpth, 'figure8.eps'), width=5, height=4, device="eps")
 }
 ####
 
@@ -100,7 +101,8 @@ perf=ggplot(oSummDF, aes(x=L2, color=L2)) +
     strip.text.x = element_text(size = 9, color='white',family="Source Sans Pro Semibold"),
     strip.background = element_rect(fill = "#525252", color='#525252')		
   )
-ggsave(perf, file=paste0(gpth, 'figure7.pdf'), width=5, height=4, device=cairo_pdf)
+# ggsave(perf, file=paste0(gpth, 'figure7.pdf'), width=5, height=4, device=cairo_pdf)
+ggsave(perf, file=paste0(gpth, 'figure7.eps'), width=5, height=4, device="eps")
 }
 ####
 })
